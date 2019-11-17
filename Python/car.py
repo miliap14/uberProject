@@ -1,4 +1,4 @@
-class classname(object):
+class Car:
     id = int
     license = str
     dirver = str
